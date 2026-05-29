@@ -19,10 +19,10 @@ Created an interactive e-commerce sales dashboard analyzing 10K+ transactions ac
 - **Insight:** West + Technology and South + Furniture are top performers
 
 ### 4. Key Metrics (KPI Cards)
-- Total Revenue: $[amount]
-- Average Order Value: $[amount]
-- Unique Customers: [number]
-- Profit Margin: [%]
+- Total Revenue: ₹2326534
+- Average Order Value: ₹268
+- Unique Customers: 800
+- Profit Margin: 13%
 
 ### 5. Customer Segments (Bar Chart)
 - LTV (Lifetime Value) by segment (Consumer, Corporate, Home Office)
@@ -41,7 +41,7 @@ Created an interactive e-commerce sales dashboard analyzing 10K+ transactions ac
 ## Tools Used
 - Tableau Public (Free)
 - Superstore dataset (built-in to Tableau)
-
+## Dashboard preview
 
 <img width="1920" height="1080" alt="Dashboard preview" src="https://github.com/user-attachments/assets/ca71f0ee-2957-4e09-be31-eb66f3ccd1af" />
 

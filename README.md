@@ -37,9 +37,22 @@ Created an interactive e-commerce sales dashboard analyzing 10K+ transactions ac
 ✅ Aggregations & partitioning
 ✅ Publishing & sharing dashboards publicly
 
+
 ## Tools Used
 - Tableau Public (Free)
 - Superstore dataset (built-in to Tableau)
+
+
+<img width="1920" height="1080" alt="Dashboard preview" src="https://github.com/user-attachments/assets/ca71f0ee-2957-4e09-be31-eb66f3ccd1af" />
+
+
+
+
+
+
+
+
+
 
 ## Next Steps
 - Add predictive trend line (forecast revenue)
